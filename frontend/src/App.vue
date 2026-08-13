@@ -18,3 +18,4 @@ function switchToCreate() {
   <CreateAccountPage v-if="currentView === 'create'" @go-to-login="switchToLogin" />
   <LoginPage v-else @go-to-create="switchToCreate" />
 </template>
+

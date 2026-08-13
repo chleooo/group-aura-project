@@ -43,7 +43,7 @@ const emit = defineEmits(['go-to-create'])
         <div class="login-gold-line"></div>
 
         <p class="login-description">
-          Access your notes, join study groups, and continue learning with your
+          Access your notes!, join study groups, and continue learning with your
           Liceo community.
         </p>
 
